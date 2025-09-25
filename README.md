@@ -1,4 +1,4 @@
-3. ocal_passport_auth_service
+3. Local_passport_auth_service
    a. register:
    Kiểm tra trên postman:
    Phương thức: POST
